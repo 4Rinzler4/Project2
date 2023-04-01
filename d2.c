@@ -4,8 +4,7 @@
 int main(){
       setlocale (LC_CTYPE,"ua");
       int a, b, sum, remainder, quotient;
-      float a, b;
-
+      
       printf("Введіть ціле число a: ");
       scanf("%d", &a);
       printf("Введіть ціле число b: ");
